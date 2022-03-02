@@ -1,4 +1,5 @@
 import pandas as pd
+import time
 from gaapi4py import GAClient
 from GetDataFromGoogleAnalytics import *
 
